@@ -1,6 +1,6 @@
 
  # the white rabbit initiative (TWR initiative)
- TWR initiative is to create a ring of content producers (texts,multimedia,software,...) that provide there content :
+ TWR initiative is to create a ring of content producers (texts,multimedia,software,...) that provide their content :
  - free of charge
  - free of commercial ads
  - open source or copy left
